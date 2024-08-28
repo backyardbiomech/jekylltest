@@ -34,7 +34,11 @@ url: "https://backyardbiomech.github.io" # the base hostname & protocol for your
 theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-paginate
-  - jekyll-pfeed
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jemoji
+  - jekyll-include-cache
 markdown: kramdown
 kramdown:
   math_engine: mathjax
