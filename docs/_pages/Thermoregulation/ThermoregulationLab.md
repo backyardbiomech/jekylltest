@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Heat and Insulation"
+permalink: /thermoregulation
+---
+
 # Physiology Lab – Heat and Insulation
 
 ## Lab objectives:
