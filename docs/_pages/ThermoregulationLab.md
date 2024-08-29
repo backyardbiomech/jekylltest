@@ -2,6 +2,7 @@
 layout: default
 title: "Heat and Insulation"
 permalink: /thermoregulation
+mathjax: true
 ---
 
 # Physiology Lab – Heat and Insulation
